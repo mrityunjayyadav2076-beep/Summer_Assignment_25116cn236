@@ -1,0 +1,41 @@
+#include <stdio.h>
+#include <string.h>
+
+#define MAX_CHAR 256
+
+char findFirstRepeating(char *str) {
+
+    int count[MAX_CHAR] = {0};
+
+    for (int i = 0; str[i] != '\0'; i++) {
+        if (str[i] != ' ' && str[i] != '\n') {
+            count[(unsigned char)str[i]]++;
+        }
+    }
+
+    for (int i = 0; str[i] != '\0'; i++) {
+        if (count[(unsigned char)str[i]] > 1) {
+            return str[i]; 
+        }
+    }
+
+    return '\0'; 
+}
+
+int main() {
+    char str[1000];
+
+    printf("Enter a string: ");
+    if (fgets(str, sizeof(str), stdin) != NULL) {
+        
+        char result = findFirstRepeating(str);
+
+        if (result != '\0') {
+            printf("The first repeating character is: '%c'\n", result);
+        } else {
+            printf("No repeating characters found.\n");
+        }
+    }
+
+    return 0;
+}
