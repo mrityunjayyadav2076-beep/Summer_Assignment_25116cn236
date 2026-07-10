@@ -41,4 +41,8 @@ assignment
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
