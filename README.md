@@ -15,11 +15,13 @@ assignment
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0015-3sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
@@ -50,6 +52,7 @@ assignment
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
