@@ -16,6 +16,7 @@ assignment
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,10 +27,12 @@ assignment
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -54,6 +57,7 @@ assignment
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -67,6 +71,7 @@ assignment
 | ------- |
 | [0007-reverse-integer](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -95,4 +100,8 @@ assignment
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0214-shortest-palindrome) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
