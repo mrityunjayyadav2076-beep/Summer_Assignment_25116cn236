@@ -17,12 +17,14 @@ assignment
 | [0162-find-peak-element](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -60,6 +62,7 @@ assignment
 | [0222-count-complete-tree-nodes](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -107,6 +110,7 @@ assignment
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0287-find-the-duplicate-number) |
 ## Interactive
 |  |
 | ------- |
@@ -119,4 +123,12 @@ assignment
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0222-count-complete-tree-nodes) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
