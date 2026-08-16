@@ -1,17 +1,17 @@
 class Solution {
     public int findDuplicate(int[] nums) {
-       int tortoise = nums[0];
+       int toise = nums[0];
        int hare = nums[0];
        do{
-        tortoise = nums[tortoise];
+        toise = nums[toise];
         hare = nums[nums[hare]];
-       } while (tortoise != hare);
+       } while (toise != hare);
 
-       tortoise = nums[0];
-       while(tortoise != hare){
-        tortoise = nums[tortoise];
+       toise = nums[0];
+       while(toise != hare){
+        toise = nums[toise];
         hare = nums[hare];
        }
-       return tortoise;
+       return toise;
     }
 }
