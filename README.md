@@ -18,6 +18,7 @@ assignment
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0300-longest-increasing-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +64,7 @@ assignment
 | [0268-missing-number](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0300-longest-increasing-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,6 +73,7 @@ assignment
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0005-longest-palindromic-substring) |
+| [0300-longest-increasing-subsequence](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0300-longest-increasing-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -131,4 +134,8 @@ assignment
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0287-find-the-duplicate-number) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
