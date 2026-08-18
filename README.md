@@ -16,6 +16,7 @@ assignment
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0300-longest-increasing-subsequence) |
@@ -65,6 +66,7 @@ assignment
 | [0162-find-peak-element](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0287-find-the-duplicate-number) |
@@ -74,6 +76,7 @@ assignment
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0004-median-of-two-sorted-arrays) |
+| [0240-search-a-2d-matrix-ii](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,6 +92,7 @@ assignment
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0240-search-a-2d-matrix-ii) |
 ## Rolling Hash
 |  |
 | ------- |
