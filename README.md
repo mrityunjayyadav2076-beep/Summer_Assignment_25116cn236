@@ -27,6 +27,7 @@ assignment
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0349-intersection-of-two-arrays) |
@@ -47,6 +48,7 @@ assignment
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0214-shortest-palindrome) |
 ## Sliding Window
 |  |
@@ -102,6 +104,7 @@ assignment
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
@@ -114,10 +117,12 @@ assignment
 ## Z Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0214-shortest-palindrome) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0214-shortest-palindrome) |
 ## Bit Manipulation
 |  |
@@ -149,4 +154,8 @@ assignment
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0300-longest-increasing-subsequence) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mrityunjayyadav2076-beep/Summer_Assignment_25116cn236/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
